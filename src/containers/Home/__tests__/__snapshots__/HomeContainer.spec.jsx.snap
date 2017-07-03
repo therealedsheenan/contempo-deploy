@@ -2,16 +2,16 @@
 
 exports[`Home existence 1`] = `
 <div
-  className="styles__Wrapper-dhcWqx fXONQy"
+  className="styles__Wrapper-dhcWqx jIPQKB"
 >
   <h1
-    className="styles__Title-kJmJYc kAsCYU"
+    className="styles__Title-kJmJYc hMrmhJ"
   >
     Good 
     Day!
   </h1>
   <p
-    className="styles__SubTitle-geuJrq dzWtlk"
+    className="styles__SubTitle-geuJrq kUHYug"
   >
     Welcome to
   </p>
