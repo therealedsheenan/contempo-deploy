@@ -1,2 +1,2 @@
 # contempo-deploy
-Contempo with deployment and CI feature using travis and aws
+Contempo starter with deployment feature using travis and aws.
